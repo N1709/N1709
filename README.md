@@ -11,7 +11,7 @@
 I am a Solo Developer driven by a **profound interest in Android System Development**. What started as curiosity about Android's limits has evolved into a mission to give devices a "second life" through deep optimization and firmware modding. For me, it is not merely about writing code; it is about pushing hardware beyond its factory boundaries.
 
 ## Personal Stuffs:
-- 🚀 **Focus:** Build and porting
+- 🚀 **Focus:** Build and Port
 - 🌱 **Learning:** Strategically acquiring skills to meet current project demands.
 - ✨ **Interests:** Embedded Systems, Reverse Engineering, Kernel Development.
 - 📱 **Official Maintaining:** PixelLines, EunoiaOS And AetheriaOS
