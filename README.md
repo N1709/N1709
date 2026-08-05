@@ -14,6 +14,6 @@ I am a Solo Developer driven by a **profound interest in Android System Developm
 - 🚀 **Focus:** Custom ROM Development, Android Device Porting, & Indie Game Projects
 - 🌱 **Learning:** Learning on the fly based on project needs
 - ✨ **Interests:** Embedded Systems, Reverse Engineering, Kernel Development, & Indie Games
-- 📱 **Official Maintainer:** EunoiaOS & AetheriaOS
+- 📱 **Official Maintainer:** Owner & Maintainer of **AetheriaOS** | Official Maintainer for **EunoiaOS**
 
 </details>
